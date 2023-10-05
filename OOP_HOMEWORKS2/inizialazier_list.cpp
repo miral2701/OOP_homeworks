@@ -126,6 +126,7 @@ void MyString::Sort(MyString s[], int n)
 void main()
 {
 
-	
+	MyString string1 = {'f','f','d'};
+	MyString string2{ 'd','d' };
 
 }
